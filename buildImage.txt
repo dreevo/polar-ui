@@ -1,0 +1,1 @@
+$ pack build polar-ui --buildpack gcr.io/paketo-buildpacks/nginx --builder paketobuildpacks/builder:base -p dist
